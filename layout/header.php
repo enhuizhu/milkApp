@@ -25,16 +25,18 @@
 							  </li>
 						   </ul>
 						   
+						   <div class="fogetPaawordContainer">
+							  <label>Forget Password?</label><br>
+						      <label>Register</label> 
+							 </div>
+						   
 						   <form class="pull-right form-inline navbar-form headerForm">
 						     <input type="text" name="username" placeholder="User Name" class="input-small">
 							 <input type="password" name="userpassword" placeholder="password" class="input-small">
                              <button class="btn">Login</button>
-                             <div class="fogetPaawordContainer">
-							  <label>Forget Password?</label><br>
-						      <label>Register</label> 
-							 </div>
-						  </form>
+                           </form>
 						   
+						     
 						   
 						</div>
 	                  </div>
